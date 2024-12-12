@@ -22,9 +22,8 @@ Welcome to my e-portfolio! This repository showcases the diverse projects I work
   - Created graphs and tables to present data-driven conclusions.
 - **Files**:
   - `DataAnalysis/dataset_analysis.ipynb`: Jupyter notebook with the analysis.
-  - Screenshots are available in the `Image/` folder.
-- **Example Output**:
-  - ![Data Analysis Output](./Images/data_analysis_output.png)
+- **Documentation**:
+  - [MobileApp Design](./MobileApps/)
 
 ---
 
@@ -69,7 +68,6 @@ Here are the tools and technologies I utilized in these projects:
 ## 🔗 Links
 - [Data Analysis Notebook](./DataAnalysis/dataset_analysis.ipynb)
 - [Flask Web Application](./WebApps/app.py)
-- [Mobile App Project File](./MobileApps/project.aia)
 
 ---
 
@@ -80,5 +78,5 @@ Below are some visuals from my projects:
 2. **Flask Web App**:
    - ![Web App Interface](./Images/flask_app_screenshot.png)
 3. **Mobile App UI**:
-   - ![Mobile App Design](./Images/mobile_app_screenshot.png)
+   - [MobileApp Design](./MobileApps/)
 
