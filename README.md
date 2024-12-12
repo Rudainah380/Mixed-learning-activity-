@@ -76,7 +76,7 @@ Here are the tools and technologies I utilized in these projects:
 ## 📊 Visuals
 Below are some visuals from my projects:
 1. **Data Analysis Output**:
-   - [Data Analysis screenshots](./Data_Analysis_Screenshots/)
+   - [Data Analysis screenshots](./Data%20Analysis%20screenshots/)
 2. **Flask Web App**:
    - ![Web App Interface](./Images/flask_app_screenshot.png)
 3. **Mobile App UI**:
