@@ -22,7 +22,7 @@ Welcome to my e-portfolio! This repository showcases the diverse projects I work
   - Created graphs and tables to present data-driven conclusions.
 - **Files**:
   - `DataAnalysis/dataset_analysis.ipynb`: Jupyter notebook with the analysis.
-- **Documentation**:
+- **Result**:
   - ![Data Analysis Output](./Images/data_analysis_output.png)
 
 ---
@@ -35,7 +35,7 @@ Welcome to my e-portfolio! This repository showcases the diverse projects I work
   - Deployed the application locally using the Flask development server.
 - **Files**:
   - `WebApps/app.py`: Flask application code.
-- **Example Output**:
+- **Result**:
   - ![Flask App Screenshot](./Images/flask_app_screenshot.png)
 
 ---
@@ -68,7 +68,7 @@ Here are the tools and technologies I utilized in these projects:
 ---
 
 ## 🔗 Links
-- [Data Analysis Notebook](./DataAnalysis/dataset_analysis.ipynb)
+- [Data Analysis Notebook](./Data%20Analysis%20Notebook/)
 - [Flask Web Application](./WebApps/app.py)
 
 ---
