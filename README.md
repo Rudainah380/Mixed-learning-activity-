@@ -23,7 +23,7 @@ Welcome to my e-portfolio! This repository showcases the diverse projects I work
 - **Files**:
   - `DataAnalysis/dataset_analysis.ipynb`: Jupyter notebook with the analysis.
 - **Documentation**:
-  -![Data Analysis Output](./Images/data_analysis_output.png)
+  - ![Data Analysis Output](./Images/data_analysis_output.png)
 
 ---
 
@@ -50,7 +50,8 @@ Welcome to my e-portfolio! This repository showcases the diverse projects I work
   - `MobileApps/project.aia`: Source file for the mobile app project.
   - Screenshots and APK files are in the `Images/` folder.
 - ***Documentation**:
-  - [MobileApp Design](./MobileApp Design/)
+  - [MobileApp Design](./MobileApp%20Design/)
+
 
 
 ---
@@ -79,5 +80,6 @@ Below are some visuals from my projects:
 2. **Flask Web App**:
    - ![Web App Interface](./Images/flask_app_screenshot.png)
 3. **Mobile App UI**:
-   - [MobileApp Design](./MobileApp Design/)
+   - [MobileApp Design](./MobileApp%20Design/)
+
 
