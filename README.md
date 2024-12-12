@@ -1,74 +1,84 @@
-<header>
+# My E-Portfolio: Mixed Learning Activities
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 4 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the file path. Previous version checked the front matter formatting.
--->
-
-## Step 4: Create a blog post
-
-_Your home page is looking great! :cowboy_hat_face:_
-
-GitHub Pages uses Jekyll. In Jekyll, we can create a blog by using specially named files and frontmatter. The files must be named `_posts/YYYY-MM-DD-title.md`. You must also include `title` and `date` in your frontmatter.
-
-**What is _frontmatter_?**: The syntax Jekyll files use is called YAML frontmatter. It goes at the top of your file and looks something like this:
-
-```yml
----
-title: "Welcome to my blog"
-date: 2019-01-20
----
-```
-
-For more information about configuring front matter, see the [Jekyll frontmatter documentation](https://jekyllrb.com/docs/frontmatter/).
-
-### :keyboard: Activity: Create a blog post
-
-1. Browse to the `my-pages` branch.
-1. Click the `Add file` dropdown menu and then on `Create new file`.
-1. Name the file `_posts/YYYY-MM-DD-title.md`.
-1. Replace the `YYYY-MM-DD` with today's date, and change the `title` of your first blog post if you'd like.
-   > If you do edit the title, make sure there are hyphens between your words.
-   > If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information, see "[Page build failed: Invalid post date](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites)".
-1. Type the following content at the top of your blog post:
-   ```yaml
-   ---
-   title: "YOUR-TITLE"
-   date: YYYY-MM-DD
-   ---
-   ```
-1. Replace `YOUR-TITLE` with the title for your blog post.
-1. Replace `YYYY-MM-DD` with today's date.
-1. Type a quick draft of your blog post. Remember, you can always edit it later.
-1. Commit your changes to your branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Welcome to my e-portfolio! This repository showcases the diverse projects I worked on during my mixed learning activities. These projects demonstrate my proficiency in data analysis, web application development, and mobile app design using various tools and technologies.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 📁 Repository Structure
+- `DataAnalysis/`: Contains Jupyter notebooks.
+- `WebApps/`: Includes Python Flask projects with related files and code.
+- `MobileApps/`: Features projects developed using MIT App Inventor.
+- `Images/`: Stores screenshots and visualizations from all projects.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+---
 
-</footer>
+## 🧑‍💻 Projects and Coursework
+
+### 1. **Data Analysis with Python**
+- **Objective**: Analyze datasets to uncover patterns and trends.
+- **Tools Used**: Jupyter Notebook, Pandas.
+- **Highlights**:
+  - Explored datasets and visualized key insights using Pandas.
+  - Created graphs and tables to present data-driven conclusions.
+- **Files**:
+  - `DataAnalysis/dataset_analysis.ipynb`: Jupyter notebook with the analysis.
+  - Screenshots are available in the `Image/` folder.
+- **Example Output**:
+  - ![Data Analysis Output](./Images/data_analysis_output.png)
+
+---
+
+### 2. **Web Application Development with Flask**
+- **Objective**: Build and deploy simple web applications using Python Flask.
+- **Tools Used**: Python, Flask, Command Prompt.
+- **Highlights**:
+  - Designed dynamic web pages and handled user input via Flask routes.
+  - Deployed the application locally using the Flask development server.
+- **Files**:
+  - `WebApps/app.py`: Flask application code.
+- **Example Output**:
+  - ![Flask App Screenshot](./Images/flask_app_screenshot.png)
+
+---
+
+### 3. **Mobile Application Development with MIT App Inventor**
+- **Objective**: Create interactive mobile applications with a visual programming interface.
+- **Tools Used**: MIT App Inventor.
+- **Highlights**:
+  - Designed intuitive user interfaces with drag-and-drop components.
+  - Developed functionality such as event-driven responses and user input handling.
+- **Files**:
+  - `MobileApps/project.aia`: Source file for the mobile app project.
+  - Screenshots and APK files are in the `Images/` folder.
+- **Example Output**:
+  - ![Mobile App Screenshot](./Images/mobile_app_screenshot.png)
+
+---
+
+## ⚙️ Technologies Used
+Here are the tools and technologies I utilized in these projects:
+- **Programming Languages**: Python.
+- **Libraries/Frameworks**: Pandas, Flask.
+- **Tools**:
+  - Jupyter Notebook for data analysis.
+  - Command Prompt for Flask application development and testing.
+  - MIT App Inventor for mobile app design.
+
+---
+
+## 🔗 Links
+- [Data Analysis Notebook](./DataAnalysis/dataset_analysis.ipynb)
+- [Flask Web Application](./WebApps/app.py)
+- [Mobile App Project File](./MobileApps/project.aia)
+
+---
+
+## 📊 Visuals
+Below are some visuals from my projects:
+1. **Data Analysis Output**:
+   - ![Data Analysis Graph](./Images/data_analysis_output.png)
+2. **Flask Web App**:
+   - ![Web App Interface](./Images/flask_app_screenshot.png)
+3. **Mobile App UI**:
+   - ![Mobile App Design](./Images/mobile_app_screenshot.png)
+
