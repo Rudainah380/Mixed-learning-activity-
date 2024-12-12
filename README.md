@@ -69,7 +69,7 @@ Here are the tools and technologies I utilized in these projects:
 
 ## 🔗 Links
 - [Data Analysis Notebook](./Data%20Analysis%20Notebook/)
-- [Flask Web Application](./WebApps/app.py)
+- [Flask WebApp](./Flask%20WebApp/)
 
 ---
 
