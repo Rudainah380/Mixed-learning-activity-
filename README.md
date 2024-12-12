@@ -78,7 +78,7 @@ Below are some visuals from my projects:
 1. **Data Analysis Output**:
    - [Data Analysis screenshots](./Data%20Analysis%20screenshots/)
 2. **Flask Web App**:
-   - ![Web App Interface](./Images/flask_app_screenshot.png)
+   - [Flask screenshots](./Flask%20screenshots/)
 3. **Mobile App UI**:
    - [MobileApp Design](./MobileApp%20Design/)
 
